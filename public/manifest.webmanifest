@@ -1,0 +1,10 @@
+{
+  "name": "Twigg",
+  "short_name": "Twigg",
+  "description": "Invite-only ride coordination.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4ecdc",
+  "theme_color": "#1d3a2a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
